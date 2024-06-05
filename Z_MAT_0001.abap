@@ -2,7 +2,7 @@ FUNCTION z_mat_0001.
 *"----------------------------------------------------------------------
 *"*"Interface local:
 *"  IMPORTING
-*"     REFERENCE(IV_MATNR) TYPE  CHAR18
+*"     REFERENCE(IV_MATNR) TYPE  MATNR
 *"  EXPORTING
 *"     REFERENCE(EV_MATKL) TYPE  MATKL
 *"----------------------------------------------------------------------
